@@ -1,4 +1,5 @@
-sk script to display “Hello HBNB!”"""
+#!/usr/bin/python3
+"""a flask script to display “Hello HBNB!”"""
 from flask import Flask, render_template
 
 app = Flask(__name__)
